@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8570792-636a-424e-bff4-40346181f968" name="Default" comment="Library Module and Other class of JUNE 13 classes">
-      <change afterPath="$PROJECT_DIR$/LIBRARYMODULE/src/TestInnerCLass.java" afterDir="false" />
+    <list default="true" id="b8570792-636a-424e-bff4-40346181f968" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIBRARYMODULE/src/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LIBRARYMODULE/src/LibraryTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,11 +89,11 @@
       <file leaf-file-name="TestInnerCLass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/TestInnerCLass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+            <state relative-caret-position="-168">
+              <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
               <folding>
-                <element signature="e#1097#1098#0" expanded="true" />
-                <element signature="e#1142#1143#0" expanded="true" />
+                <element signature="e#1296#1297#0" expanded="true" />
+                <element signature="e#1359#1360#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -366,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528885468068</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Inner Classes">
+      <created>1528887533687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1528887533687</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -382,9 +387,9 @@
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.121522695" side_tool="true" visible="true" weight="0.091065295" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.121522695" side_tool="true" visible="true" weight="0.0" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.87847733" visible="true" weight="0.091065295" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.87847733" weight="0.43814433" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3298969" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.88433385" weight="0.32876712" />
       <window_info id="Capture Tool" order="2" />
@@ -444,7 +449,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Library Module and Other class of JUNE 13 classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Library Module and Other class of JUNE 13 classes" />
+    <MESSAGE value="Inner Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inner Classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -882,11 +888,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/TestInnerCLass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+        <state relative-caret-position="-168">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
           <folding>
-            <element signature="e#1097#1098#0" expanded="true" />
-            <element signature="e#1142#1143#0" expanded="true" />
+            <element signature="e#1296#1297#0" expanded="true" />
+            <element signature="e#1359#1360#0" expanded="true" />
           </folding>
         </state>
       </provider>
