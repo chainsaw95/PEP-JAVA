@@ -16,7 +16,7 @@ public class TestStudent {
 
         asort.sortAr(ar,smarks);
 
-z
+
         for (int i = 0; i < ar.length; i++) {
 
             System.out.println(ar[i].getName()+" roll "+ar[i].getRollno()+" marks:"+ar[i].getMarks());

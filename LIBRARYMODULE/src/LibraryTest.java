@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Date;
 
 enum Rank{
@@ -21,22 +22,46 @@ enum Rank{
 }
 
 
+enum Zone{
+
+    north("North Zone NSS member"),
+    east("East zone NSS member"),
+    south("South Zone NSS member"),
+    west("West Zone NSS member");
+
+    String desc;
+
+    Zone(String desc){
+        this.desc=desc;
+    }
+
+    public String getDesc() {
+        return desc;
+    }
+
+    public void setDesc(String desc) {
+        this.desc = desc;
+    }
+}
+
 interface NSSMember{
     Rank getRank();
-    String getZone();
+    Zone getZone();
 
 }
 
 abstract class Member{
 
-     int libid;
-     String name;
+    int libid;
+    String name;
+    static int count;
 
     Book books[]=new Book[6];
     int bookcount=0;
 
-    public Member(int libid, String name) {
-        this.libid = libid;
+    public Member( String name) {
+        count++;
+        libid=count;
         this.name = name;
     }
 
@@ -52,9 +77,6 @@ abstract class Member{
         return name;
     }
 
-    public void setLibid(int libid) {
-        this.libid = libid;
-    }
 
     public void setName(String name) {
         this.name = name;
@@ -65,6 +87,8 @@ abstract class Member{
     }
 
     abstract public int getIssueLimit();
+
+
 
     public void issueBook(Book b){
 
@@ -92,9 +116,11 @@ class Student extends Member implements NSSMember{
 
     int rollno;
     String section;
+    static int countroll;
 
     Rank rank;
-    private String zone=null;
+    Zone zone;
+
 
     Book books[]=new Book[8];
 
@@ -102,12 +128,23 @@ class Student extends Member implements NSSMember{
         this.rank = rank;
     }
 
-    public Student(int libid, String name, int rollno, String section) {
-        super(libid, name);
-        this.rollno = rollno;
+
+    public Student(String name, String section) {
+        super( name);
+        countroll++;
+        rollno=countroll;
         this.section = section;
     }
 
+
+    public void setZone(Zone zone) {
+        this.zone = zone;
+    }
+
+    public Zone getZone(){
+        return this.zone;
+
+    }
 
     public int getRollno() {
         return rollno;
@@ -117,29 +154,16 @@ class Student extends Member implements NSSMember{
         return section;
     }
 
-    public void setRollno(int rollno) {
-        this.rollno = rollno;
-    }
 
     public void setSection(String section) {
         this.section = section;
     }
 
-    @Override
-    public String toString() {
-        return super.toString()+"rollno: "+rollno+" Section:"+section;
-    }
 
     @Override
     public Rank getRank() {
         return rank;
     }
-
-    @Override
-    public String getZone() {
-        return zone;
-    }
-
 
     @Override
     public void issueBook(Book b){
@@ -151,22 +175,36 @@ class Student extends Member implements NSSMember{
     @Override
     public int getIssueLimit() {
         if(this.rank==Rank.senior)
-        return 7;
+            return 7;
         else
             return 5;
 
+    }
+
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "libid=" + libid +
+                ", name='" + name + '\'' +
+                ", rollno=" + rollno +
+                ", section='" + section + '\'' +
+                ", rank=" + rank +
+                ", zone=" + zone ;
     }
 }
 
 
 class Faculty extends Member{
 
-    int facultyid;
+    static int countfacultyid;
     String designation;
+    int facultyid;
 
-    public Faculty(int libid, String name, int facultyid, String designation) {
-        super(libid, name);
-        this.facultyid = facultyid;
+    public Faculty( String name, String designation) {
+        super(name);
+        countfacultyid++;
+        facultyid=countfacultyid;
         this.designation = designation;
     }
 
@@ -178,9 +216,6 @@ class Faculty extends Member{
         return designation;
     }
 
-    public void setFacultyid(int facultyid) {
-        this.facultyid = facultyid;
-    }
 
     public void setDesignation(String designation) {
         this.designation = designation;
@@ -203,29 +238,25 @@ class Faculty extends Member{
 }
 
 
-
-
 class Book{
 
-    int bookid;
+    static int bookid;
     String title;
     Member member;
     Date issuedate;
 
-    public Book(int bookid, String title) {
-        this.bookid = bookid;
+    public Book(String title) {
+
         this.title = title;
         issuedate=new Date();
     }
 
 
-    public int getBookid() {
-        return bookid;
+    public static int getBookid() {
+        return Book.bookid;
     }
 
-    public void setBookid(int bookid) {
-        this.bookid = bookid;
-    }
+
 
     public String getTitle() {
         return title;
@@ -264,24 +295,25 @@ class Book{
 }
 
 
-public class MemberTest {
+public class LibraryTest {
 
     public static void main(String[] args){
 
-        Member m1=new Student(151,"Vivek Singh",22,"MCA");
-        Member m2=new Student(152,"LPLk Singh",24,"BCA");
-        Member m3=new Student(153,"asDDDk Singh",26,"CA");
+        Member m1=new Student("Vivek Singh","MCA");
+        Member m2=new Student("LPLk Singh","BCA");
+        Member m3=new Student("asDDDk Singh","CA");
 
-        Member m4=new Faculty(154,"yan",877,"HOD");
-        Member m5=new Faculty(155,"Kan",878,"DPE");
-        Member m6=new Faculty(156,"Kaaasn",879,"Dr");
+        Member m4=new Faculty("yan","HOD");
+        Member m5=new Faculty("Kan","DPE");
+        Member m6=new Faculty("Kaaasn","Dr");
 
-        Book b1=new Book(888,"java");
-        Book b2=new Book(889,"C");
-        Book b3=new Book(866,"C++");
-        Book b4=new Book(867,"bash");
-        Book b5=new Book(868,"python");
-        Book b6=new Book(856,"C#");
+        Book b1=new Book("java");
+        Book b2=new Book("C");
+        Book b3=new Book("C++");
+        Book b4=new Book("bash");
+        Book b5=new Book("python");
+        Book b6=new Book("C#");
+
 
 
 
@@ -293,14 +325,17 @@ public class MemberTest {
         m5.issueBook(b5);
         m6.issueBook(b6);
 
-
         ((Student) m1).setRank(Rank.senior);
+        ((Student) m1).setZone(Zone.east);
 
-       System.out.println(m1.getIssueLimit());
-        System.out.println(((Student) m1).getRank().getDesc());
+        System.out.println(m1);
 
 
     }
 
 
 }
+
+
+
+
