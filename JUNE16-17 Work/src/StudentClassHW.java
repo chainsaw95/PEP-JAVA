@@ -11,10 +11,7 @@ class Student{
     public static int indexList=0;
     private final int max=10;
 
-
     public Student(){
-
-
 
     }
 
@@ -212,7 +209,6 @@ public class StudentClassHW {
                     break;
 
                 case 3:
-
 
                     System.out.println("Enter student regid");
                     int regidel=sc.nextInt();

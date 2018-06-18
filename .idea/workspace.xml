@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8570792-636a-424e-bff4-40346181f968" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/JUNE16-17 Work/JUNE16-17 Work.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June18/June18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June18/src/HashmapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June18/src/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June18/src/MobileTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June18/src/SnakeGameVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June18/src/StringCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June18/src/TestDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June18/src/TestOccurence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUNE15/src/StudentClassHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JUNE16-17 Work/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JUNE16-17 Work/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JUNE16-17 Work/StudentClassHW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JUNE16-17 Work/StudentClassHW.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,47 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArmStringQ.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/ArmStringQ.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="ArmStrong.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/ArmStrong.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CmpString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/CmpString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BMI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/BMI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/RotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,27 +38,103 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentClassHW.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StudentClassHW.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1387">
-              <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
+            <state relative-caret-position="492">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringCount.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/June18/src/StringCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-542">
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="e#196#207#0" expanded="true" />
+                <element signature="e#246#257#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MobileTreeSet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/June18/src/MobileTreeSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-16">
+              <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+              <folding>
+                <element signature="e#257#265#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mobile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/June18/src/Mobile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+              <folding>
+                <element signature="e#886#887#0" expanded="true" />
+                <element signature="e#926#927#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDeque.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/June18/src/TestDeque.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SnakeGameVar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/June18/src/SnakeGameVar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="130" column="51" selection-start-line="130" selection-start-column="51" selection-end-line="130" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#752#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestOccurence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/June18/src/TestOccurence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="33" column="9" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashmapTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/June18/src/HashmapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="arrayrotate01.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/arrayrotate01.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="arrayrotate02.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/arrayrotate02.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="cmpStr.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/cmpStr.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -126,14 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JUNE8/src/Person.java" />
-        <option value="$PROJECT_DIR$/JUNE8/src/Binary.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
-        <option value="$PROJECT_DIR$/JUNE8/src/Box.java" />
-        <option value="$PROJECT_DIR$/10JUNESunday/src/TestFamilyTree.java" />
-        <option value="$PROJECT_DIR$/10JUNESunday/src/Person.java" />
-        <option value="$PROJECT_DIR$/June11/src/AbstractFigure.java" />
-        <option value="$PROJECT_DIR$/June11/src/Member.java" />
         <option value="$PROJECT_DIR$/JUNE12/src/myabstract.java" />
         <option value="$PROJECT_DIR$/JUNE12/src/interfaceTest.java" />
         <option value="$PROJECT_DIR$/JUNE12/src/Rectangle.java" />
@@ -177,6 +212,14 @@
         <option value="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/RotateArray.java" />
         <option value="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/Test.java" />
         <option value="$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java" />
+        <option value="$PROJECT_DIR$/June18/src/StringCount.java" />
+        <option value="$PROJECT_DIR$/June18/src/MobileDemo.java" />
+        <option value="$PROJECT_DIR$/June18/src/Mobile.java" />
+        <option value="$PROJECT_DIR$/June18/src/MobileTreeSet.java" />
+        <option value="$PROJECT_DIR$/June18/src/TestDeque.java" />
+        <option value="$PROJECT_DIR$/June18/src/SnakeGameVar.java" />
+        <option value="$PROJECT_DIR$/June18/src/TestOccurence.java" />
+        <option value="$PROJECT_DIR$/June18/src/HashmapTest.java" />
       </list>
     </option>
   </component>
@@ -224,6 +267,17 @@
             <path>
               <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
               <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE14" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
               <item name="JUNE15" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -235,36 +289,33 @@
             <path>
               <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
               <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="JUNE16-17 Work" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE15" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Mobile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
               <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="JUNE16-17 Work" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE15" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
               <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="JUNE16-17 Work" type="462c0819:PsiDirectoryNode" />
+              <item name="June18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="June18" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StudentClassHW.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
               <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
               <item name="LIBRARYMODULE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="PEP PROBLEMS ONLINE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="PEP PROBLEMS ONLINE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,6 +348,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/June18/src" />
       <recent name="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src" />
       <recent name="$PROJECT_DIR$/PEP PROBLEMS ONLINE/Armstrong Number" />
     </key>
@@ -313,30 +365,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StudentClassHW">
-    <configuration name="ArmStrong (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArmStrong" />
-      <module name="ArmStrongNumber" />
+  <component name="RunManager" selected="Application.HashmapTest">
+    <configuration name="HashmapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashmapTest" />
+      <module name="June18" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="BMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BMI" />
-      <module name="ArmStrongNumber" />
+    <configuration name="MobileTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MobileTreeSet" />
+      <module name="June18" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="CmpString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CmpString" />
-      <module name="ArmStrongNumber" />
+    <configuration name="SnakeGameVar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SnakeGameVar" />
+      <module name="June18" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotateArray" />
-      <module name="PEP PROBLEMS ONLINE" />
+    <configuration name="TestDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDeque" />
+      <module name="June18" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="StudentClassHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudentClassHW" />
-      <module name="JUNE16-17 Work" />
+    <configuration name="TestOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestOccurence" />
+      <module name="June18" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -381,19 +433,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ArmStrong (1)" />
-      <item itemvalue="Application.CmpString" />
-      <item itemvalue="Application.BMI" />
-      <item itemvalue="Application.RotateArray" />
-      <item itemvalue="Application.StudentClassHW" />
+      <item itemvalue="Application.MobileTreeSet" />
+      <item itemvalue="Application.TestDeque" />
+      <item itemvalue="Application.SnakeGameVar" />
+      <item itemvalue="Application.TestOccurence" />
+      <item itemvalue="Application.HashmapTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentClassHW" />
-        <item itemvalue="Application.RotateArray" />
-        <item itemvalue="Application.BMI" />
-        <item itemvalue="Application.CmpString" />
-        <item itemvalue="Application.ArmStrong (1)" />
+        <item itemvalue="Application.HashmapTest" />
+        <item itemvalue="Application.TestOccurence" />
+        <item itemvalue="Application.SnakeGameVar" />
+        <item itemvalue="Application.TestDeque" />
+        <item itemvalue="Application.MobileTreeSet" />
       </list>
     </recent_temporary>
   </component>
@@ -446,6 +498,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="698" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -455,7 +508,7 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.12737921" side_tool="true" weight="0.28006873" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.87262076" weight="0.16838488" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.87262076" weight="0.085910656" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3298969" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.8828697" weight="0.3270548" />
       <window_info id="Capture Tool" order="2" />
@@ -468,44 +521,14 @@
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4919473" weight="0.0068728523" />
       <window_info id="Favorites" order="3" sideWeight="0.21002387" side_tool="true" weight="0.23572475" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3298969" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3298969" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.7899761" visible="true" weight="0.23572475" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.87262076" weight="0.30756015" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Designer" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info id="UI Designer" order="1" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.3298969" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4919473" weight="0.5412371" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.8828697" weight="0.3270548" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.12737921" side_tool="true" weight="0.28006873" />
-      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48682284" weight="0.3298969" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info id="Favorites" order="3" sideWeight="0.21002387" side_tool="true" weight="0.23572475" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -526,47 +549,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JUNE8/src/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE8/src/StudentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE8/src/Binary.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE8/src/Box.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE8/src/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10JUNESunday/src/TestFamilyTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10JUNESunday/src/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -822,8 +804,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1387">
-          <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
+        <state relative-caret-position="492">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/June18/src/StringCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-542">
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#196#207#0" expanded="true" />
+            <element signature="e#246#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/June18/src/MobileTreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="e#257#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/June18/src/Mobile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding>
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/June18/src/TestDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/June18/src/SnakeGameVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="130" column="51" selection-start-line="130" selection-start-column="51" selection-end-line="130" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#752#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/June18/src/TestOccurence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/June18/src/HashmapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
