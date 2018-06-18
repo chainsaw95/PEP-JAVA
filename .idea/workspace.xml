@@ -2,92 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8570792-636a-424e-bff4-40346181f968" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PEP PROBLEMS ONLINE/PEP PROBLEMS ONLINE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/ArmStringQ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/ArmStrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/BMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/CmpString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/arrayrotate01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/arrayrotate02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/cmpStr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE16-17 Work/JUNE16-17 Work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/10JUNESunday/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/10JUNESunday/TestFamilyTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE12/Comparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE12/Figure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE12/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE12/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE12/StudentMArksComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE12/StudentRollComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE12/StudentSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE12/TestFigure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE12/TestStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE14/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE14/GenericsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE14/ListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE14/MergeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE14/ObjectQeuals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE14/Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE14/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE15/CollectionsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE15/Mobile/CompareResolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE15/Mobile/CompareScreen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE15/Mobile/Mobile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE15/Mobile/MobileDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE15/Model/City.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE15/Model/CityTempComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE15/PQTest$1Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE15/PQTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE15/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE15/StudentClassHW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE15/TestDoublyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE5/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE5/BookTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE7/ArrayDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE7/MatrixMul.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE7/MatrixTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE7/MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE7/Pen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE7/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE7/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE7/TestStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE7/TwoDArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE8/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE8/CoveredBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE8/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE8/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE8/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE8/TestBoc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June11/AbstractFigure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June11/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June11/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June11/Faculty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June11/Figure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June11/Member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June11/MemberTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June11/NSSMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June11/Picture.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June11/Rank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June11/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June11/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June13/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June13/StaticTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/Faculty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/LibraryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/Member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/NSSMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/Person$Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/Person$Name.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/Rank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/TestInnerCLass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/TestLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LIBRARYMODULE/Zone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUNE15/src/StudentClassHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,15 +26,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Faculty.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Faculty.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -152,11 +62,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/RotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+            <state relative-caret-position="874">
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentClassHW.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1387">
+              <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -207,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JUNE8/src/StudentTest.java" />
-        <option value="$PROJECT_DIR$/JUNE8/src/Student.java" />
         <option value="$PROJECT_DIR$/JUNE8/src/Person.java" />
         <option value="$PROJECT_DIR$/JUNE8/src/Binary.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
@@ -258,6 +175,8 @@
         <option value="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/CmpString.java" />
         <option value="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/BMI.java" />
         <option value="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/RotateArray.java" />
+        <option value="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/Test.java" />
+        <option value="$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java" />
       </list>
     </option>
   </component>
@@ -284,15 +203,52 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
               <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="June13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE15" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE16-17 Work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE16-17 Work" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE16-17 Work" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="StudentClassHW.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
@@ -314,6 +270,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,15 +313,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RotateArray">
+  <component name="RunManager" selected="Application.StudentClassHW">
     <configuration name="ArmStrong (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArmStrong" />
       <module name="ArmStrongNumber" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="ArmStrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArmStrong" />
-      <module name="PEP PROBLEMS ONLINE" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="BMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -379,6 +332,11 @@
     <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RotateArray" />
       <module name="PEP PROBLEMS ONLINE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="StudentClassHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentClassHW" />
+      <module name="JUNE16-17 Work" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -423,19 +381,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ArmStrong" />
       <item itemvalue="Application.ArmStrong (1)" />
       <item itemvalue="Application.CmpString" />
       <item itemvalue="Application.BMI" />
       <item itemvalue="Application.RotateArray" />
+      <item itemvalue="Application.StudentClassHW" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentClassHW" />
         <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.BMI" />
         <item itemvalue="Application.CmpString" />
         <item itemvalue="Application.ArmStrong (1)" />
-        <item itemvalue="Application.ArmStrong" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528973845906</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JUNE 17 Day END">
+      <created>1529259367210</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529259367210</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -481,21 +446,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="698" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48682284" weight="0.3298969" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.12737921" side_tool="true" weight="0.28006873" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.87262076" weight="0.04467354" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.87262076" weight="0.16838488" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3298969" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.8828697" weight="0.3270548" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.7899761" visible="true" weight="0.1068814" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.7899761" visible="true" weight="0.34040996" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="1" />
@@ -503,44 +468,43 @@
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4919473" weight="0.0068728523" />
       <window_info id="Favorites" order="3" sideWeight="0.21002387" side_tool="true" weight="0.23572475" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3298969" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48682284" weight="0.3298969" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.3298969" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.87262076" weight="0.30756015" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3298969" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.7899761" visible="true" weight="0.23572475" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.87262076" weight="0.30756015" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Designer" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info id="UI Designer" order="1" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3298969" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4919473" weight="0.5412371" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.8828697" weight="0.3270548" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.12737921" side_tool="true" weight="0.28006873" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3298969" />
-      <window_info id="Favorites" order="3" sideWeight="0.21002387" side_tool="true" weight="0.23572475" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48682284" weight="0.3298969" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.7899761" visible="true" weight="0.23572475" />
+      <window_info id="Favorites" order="3" sideWeight="0.21002387" side_tool="true" weight="0.23572475" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +517,8 @@
     <MESSAGE value="Library Module and Other class of JUNE 13 classes" />
     <MESSAGE value="Inner Classes" />
     <MESSAGE value="JUNE 14 Day END" />
-    <option name="LAST_COMMIT_MESSAGE" value="JUNE 14 Day END" />
+    <MESSAGE value="JUNE 17 Day END" />
+    <option name="LAST_COMMIT_MESSAGE" value="JUNE 17 Day END" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -561,13 +526,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JUNE7/src/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-91">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JUNE8/src/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -796,13 +754,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE15/src/StudentClassHW.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JUNE15/src/TestDoublyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -859,10 +810,20 @@
     <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/arrayrotate01.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/RotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        <state relative-caret-position="874">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -918,7 +879,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JUNE5</last-edited>
+          <last-edited>JUNE16-17 Work</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
