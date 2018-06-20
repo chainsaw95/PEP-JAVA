@@ -7,7 +7,6 @@ public class HashmapTest {
 
     public static void main(String[] args){
 
-
         HashMap<String,ArrayList<String>> hashFriends=new HashMap<>();
 
         for(int i=0;i<2;i++) {
@@ -23,29 +22,9 @@ public class HashmapTest {
 
             hashFriends.put(name, viveksfriend);
 
-            viveksfriend.clear();
         }
-
 
        System.out.println(hashFriends);
 
-        for(String key:hashFriends.keySet()){
-
-            System.out.println(key);
-
-            ArrayList a1=hashFriends.get(key);
-
-
-
-
-        }
-
-
-
-
-
     }
-
-
-
 }

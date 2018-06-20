@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8570792-636a-424e-bff4-40346181f968" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/June18/June18.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June18/src/HashmapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June18/src/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June18/src/MobileTreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June18/src/SnakeGameVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June18/src/StringCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June18/src/TestDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June18/src/TestOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE19/JUNE19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE19/src/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE19/src/RemoveSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE19/src/SearchAllIndexes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE19/src/StringSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE16-17 Work/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JUNE16-17 Work/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JUNE16-17 Work/StudentClassHW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JUNE16-17 Work/StudentClassHW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/June18/src/HashmapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/June18/src/HashmapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June18/HashmapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/June18/HashmapTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,45 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/RotateArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentClassHW.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringCount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/June18/src/StringCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-542">
-              <caret lean-forward="true" />
-              <folding>
-                <element signature="e#196#207#0" expanded="true" />
-                <element signature="e#246#257#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MobileTreeSet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/June18/src/MobileTreeSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
-              <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-              <folding>
-                <element signature="e#257#265#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -75,8 +37,8 @@
       <file leaf-file-name="Mobile.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/June18/src/Mobile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+            <state relative-caret-position="627">
+              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
               <folding>
                 <element signature="e#886#887#0" expanded="true" />
                 <element signature="e#926#927#0" expanded="true" />
@@ -88,7 +50,7 @@
       <file leaf-file-name="TestDeque.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/June18/src/TestDeque.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
+            <state relative-caret-position="456">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
@@ -97,17 +59,8 @@
       <file leaf-file-name="SnakeGameVar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/June18/src/SnakeGameVar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="2166">
               <caret line="130" column="51" selection-start-line="130" selection-start-column="51" selection-end-line="130" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#752#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -115,17 +68,17 @@
       <file leaf-file-name="TestOccurence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/June18/src/TestOccurence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="33" column="9" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="627">
+              <caret line="33" column="9" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashmapTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HashmapTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/June18/src/HashmapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="340">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,9 +86,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="arrayrotate01.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/arrayrotate01.png">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="StringSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUNE19/src/StringSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveSpaces.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUNE19/src/RemoveSpaces.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pattern.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUNE19/src/Pattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchAllIndexes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JUNE19/src/SearchAllIndexes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -169,10 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JUNE12/src/myabstract.java" />
-        <option value="$PROJECT_DIR$/JUNE12/src/interfaceTest.java" />
-        <option value="$PROJECT_DIR$/JUNE12/src/Rectangle.java" />
-        <option value="$PROJECT_DIR$/JUNE12/src/TestFigure.java" />
         <option value="$PROJECT_DIR$/JUNE12/src/Student.java" />
         <option value="$PROJECT_DIR$/JUNE12/src/StudentSort.java" />
         <option value="$PROJECT_DIR$/JUNE12/src/TestStudent.java" />
@@ -220,6 +203,10 @@
         <option value="$PROJECT_DIR$/June18/src/SnakeGameVar.java" />
         <option value="$PROJECT_DIR$/June18/src/TestOccurence.java" />
         <option value="$PROJECT_DIR$/June18/src/HashmapTest.java" />
+        <option value="$PROJECT_DIR$/JUNE19/src/StringSort.java" />
+        <option value="$PROJECT_DIR$/JUNE19/src/RemoveSpaces.java" />
+        <option value="$PROJECT_DIR$/JUNE19/src/Pattern.java" />
+        <option value="$PROJECT_DIR$/JUNE19/src/SearchAllIndexes.java" />
       </list>
     </option>
   </component>
@@ -247,6 +234,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,13 +303,28 @@
             <path>
               <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
               <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
               <item name="LIBRARYMODULE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="PEP PROBLEMS ONLINE" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -365,30 +368,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashmapTest">
+  <component name="RunManager" selected="Application.SearchAllIndexes">
     <configuration name="HashmapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashmapTest" />
       <module name="June18" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="MobileTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MobileTreeSet" />
-      <module name="June18" />
+    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern" />
+      <module name="JUNE19" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="SnakeGameVar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SnakeGameVar" />
-      <module name="June18" />
+    <configuration name="RemoveSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveSpaces" />
+      <module name="JUNE19" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TestDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestDeque" />
-      <module name="June18" />
+    <configuration name="SearchAllIndexes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchAllIndexes" />
+      <module name="JUNE19" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TestOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestOccurence" />
-      <module name="June18" />
+    <configuration name="StringSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringSort" />
+      <module name="JUNE19" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -433,19 +436,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MobileTreeSet" />
-      <item itemvalue="Application.TestDeque" />
-      <item itemvalue="Application.SnakeGameVar" />
-      <item itemvalue="Application.TestOccurence" />
       <item itemvalue="Application.HashmapTest" />
+      <item itemvalue="Application.StringSort" />
+      <item itemvalue="Application.RemoveSpaces" />
+      <item itemvalue="Application.Pattern" />
+      <item itemvalue="Application.SearchAllIndexes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchAllIndexes" />
+        <item itemvalue="Application.Pattern" />
+        <item itemvalue="Application.RemoveSpaces" />
+        <item itemvalue="Application.StringSort" />
         <item itemvalue="Application.HashmapTest" />
-        <item itemvalue="Application.TestOccurence" />
-        <item itemvalue="Application.SnakeGameVar" />
-        <item itemvalue="Application.TestDeque" />
-        <item itemvalue="Application.MobileTreeSet" />
       </list>
     </recent_temporary>
   </component>
@@ -508,8 +511,8 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.12737921" side_tool="true" weight="0.28006873" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.87262076" weight="0.085910656" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.87262076" weight="0.16494845" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.8828697" weight="0.3270548" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
@@ -518,8 +521,8 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4919473" weight="0.0068728523" />
       <window_info id="Favorites" order="3" sideWeight="0.21002387" side_tool="true" weight="0.23572475" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4919473" weight="0.0068728523" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -549,34 +552,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/10JUNESunday/src/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE12/src/TestFigure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE12/src/StudentSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE12/src/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/June11/src/AbstractFigure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -804,36 +779,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
+        <state relative-caret-position="817">
           <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/June18/src/StringCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-542">
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#196#207#0" expanded="true" />
-            <element signature="e#246#257#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/June18/src/MobileTreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding>
-            <element signature="e#257#265#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="171">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/June18/src/Mobile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        <state relative-caret-position="627">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
           <folding>
             <element signature="e#886#887#0" expanded="true" />
             <element signature="e#926#927#0" expanded="true" />
@@ -843,41 +807,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/June18/src/TestDeque.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
+        <state relative-caret-position="456">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/June18/src/SnakeGameVar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="2166">
           <caret line="130" column="51" selection-start-line="130" selection-start-column="51" selection-end-line="130" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#752#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/June18/src/TestOccurence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="627">
+          <caret line="33" column="9" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE19/src/StringSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE19/src/RemoveSpaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/June18/src/HashmapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="340">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE19/src/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE19/src/SearchAllIndexes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
         </state>
       </provider>
     </entry>
