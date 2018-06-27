@@ -2,15 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8570792-636a-424e-bff4-40346181f968" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/JUNE19/JUNE19.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUNE19/src/Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUNE19/src/RemoveSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUNE19/src/SearchAllIndexes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUNE19/src/StringSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE20/JUNE20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE20/src/BillpaymentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE20/src/RegexDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE20/src/ScannerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE21/JUNE21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE21/src/AssertionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE21/src/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE21/src/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE21/src/shortPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE22/JUNE22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE22/src/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE22/src/FileNIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE22/src/FileReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE22/src/HashMapPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE22/src/ObjextPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE22/src/SumOfFileMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE22/src/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE22/src/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE22/src/file3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE22/src/myinput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE25/JUNE25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE25/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE25/src/FileSystemChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE25/src/HareTortoise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE25/src/PathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE25/src/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE25/src/TestThreadRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE26/JUNE26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE26/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE26/src/InterThreadCommunication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNE26/src/PrinterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/June18/src/HashmapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/June18/src/HashmapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/June18/HashmapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/June18/HashmapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUNE19/src/SearchAllIndexes.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUNE19/src/SearchAllIndexes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUNE19/src/StringSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUNE19/src/StringSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArmStrongNumber/ArmStrong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArmStrongNumber/BMI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArmStrongNumber/CmpString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JUNE19/SearchAllIndexes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JUNE19/SearchAllIndexes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PEP PROBLEMS ONLINE/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PEP PROBLEMS ONLINE/RotateArray.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,65 +52,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PEP_CLASSES$PrinterTest.ic" NAME="PrinterTest Coverage Results" MODIFIED="1530009038733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="PEP CLASSES" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MobileTreeSet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/June18/src/MobileTreeSet.java">
+      <file leaf-file-name="SumOfFileMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUNE22/src/SumOfFileMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mobile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/June18/src/Mobile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-              <folding>
-                <element signature="e#886#887#0" expanded="true" />
-                <element signature="e#926#927#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestDeque.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/June18/src/TestDeque.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SnakeGameVar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/June18/src/SnakeGameVar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2166">
-              <caret line="130" column="51" selection-start-line="130" selection-start-column="51" selection-end-line="130" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestOccurence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/June18/src/TestOccurence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="9" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashmapTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/June18/src/HashmapTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="855">
+              <caret line="49" column="9" selection-start-line="11" selection-start-column="8" selection-end-line="49" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JUNE19/src/StringSort.java">
+      <file leaf-file-name="FileSystemChannel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUNE25/src/FileSystemChannel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="228">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,29 +84,94 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveSpaces.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JUNE19/src/RemoveSpaces.java">
+      <file leaf-file-name="PathTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUNE25/src/PathTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+            <state relative-caret-position="228">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pattern.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JUNE19/src/Pattern.java">
+      <file leaf-file-name="TestThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUNE25/src/TestThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            <state relative-caret-position="1482">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchAllIndexes.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JUNE19/src/SearchAllIndexes.java">
+      <file leaf-file-name="TestThreadRunnable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUNE25/src/TestThreadRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HareTortoise.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUNE25/src/HareTortoise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrinterTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUNE26/src/PrinterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-172">
+              <caret line="50" column="32" lean-forward="true" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterThreadCommunication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUNE26/src/InterThreadCommunication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2280">
+              <caret line="120" column="5" lean-forward="true" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Account.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JUNE26/src/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="77" column="9" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+              <folding>
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#907#908#0" expanded="true" />
+                <element signature="e#997#998#0" expanded="true" />
+                <element signature="e#1023#1024#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileCopy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUNE22/src/FileCopy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="34" selection-start-line="9" selection-start-column="8" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,8 +181,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -156,40 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JUNE12/src/Student.java" />
-        <option value="$PROJECT_DIR$/JUNE12/src/StudentSort.java" />
-        <option value="$PROJECT_DIR$/JUNE12/src/TestStudent.java" />
-        <option value="$PROJECT_DIR$/June13/src/StaticTest.java" />
-        <option value="$PROJECT_DIR$/June11/src/MemberTest.java" />
-        <option value="$PROJECT_DIR$/June13/src/TestLibraryStatic.java" />
-        <option value="$PROJECT_DIR$/June13/src/MemberTest.java" />
-        <option value="$PROJECT_DIR$/June13/src/Test.java" />
-        <option value="$PROJECT_DIR$/LIBRARYMODULE/src/TestInnerCLass.java" />
-        <option value="$PROJECT_DIR$/JUNE14/src/GenericsTest.java" />
-        <option value="$PROJECT_DIR$/JUNE14/src/ListDemo.java" />
-        <option value="$PROJECT_DIR$/JUNE14/src/MergeList.java" />
-        <option value="$PROJECT_DIR$/JUNE14/src/ObjectQeuals.java" />
-        <option value="$PROJECT_DIR$/JUNE15/src/Model/City.java" />
-        <option value="$PROJECT_DIR$/JUNE15/src/Model/CityTempComparator.java" />
-        <option value="$PROJECT_DIR$/JUNE15/src/CollectionsDemo.java" />
-        <option value="$PROJECT_DIR$/JUNE15/src/Mobile/MobileDemo.java" />
-        <option value="$PROJECT_DIR$/LIBRARYMODULE/src/Library.java" />
-        <option value="$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Library.java" />
-        <option value="$PROJECT_DIR$/LIBRARYMODULE/src/TestLibrary.java" />
-        <option value="$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Rank.java" />
-        <option value="$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Zone.java" />
-        <option value="$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/NSSMember.java" />
-        <option value="$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Student.java" />
-        <option value="$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Faculty.java" />
-        <option value="$PROJECT_DIR$/LIBRARYMODULE/src/LibraryTest.java" />
-        <option value="$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Book.java" />
-        <option value="$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Member.java" />
-        <option value="$PROJECT_DIR$/JUNE15/src/TestDoublyLinkedList.java" />
-        <option value="$PROJECT_DIR$/JUNE15/src/PQTest.java" />
-        <option value="$PROJECT_DIR$/JUNE15/src/StudentClassHW.java" />
-        <option value="$PROJECT_DIR$/JUNE14/src/Test.java" />
-        <option value="$PROJECT_DIR$/PEP PROBLEMS ONLINE/Armstrong Number/Armstrong.java" />
-        <option value="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/ArmStrong.java" />
         <option value="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/CmpString.java" />
         <option value="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/BMI.java" />
         <option value="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/RotateArray.java" />
@@ -203,10 +220,44 @@
         <option value="$PROJECT_DIR$/June18/src/SnakeGameVar.java" />
         <option value="$PROJECT_DIR$/June18/src/TestOccurence.java" />
         <option value="$PROJECT_DIR$/June18/src/HashmapTest.java" />
-        <option value="$PROJECT_DIR$/JUNE19/src/StringSort.java" />
         <option value="$PROJECT_DIR$/JUNE19/src/RemoveSpaces.java" />
         <option value="$PROJECT_DIR$/JUNE19/src/Pattern.java" />
+        <option value="$PROJECT_DIR$/JUNE20/src/ScannerTest.java" />
         <option value="$PROJECT_DIR$/JUNE19/src/SearchAllIndexes.java" />
+        <option value="$PROJECT_DIR$/JUNE20/src/BillpaymentTest.java" />
+        <option value="$PROJECT_DIR$/JUNE20/src/RegexDemo.java" />
+        <option value="$PROJECT_DIR$/JUNE21/src/addTest.java" />
+        <option value="$PROJECT_DIR$/JUNE21/src/add.java" />
+        <option value="$PROJECT_DIR$/JUNE19/src/StringSort.java" />
+        <option value="$PROJECT_DIR$/JUNE21/src/ExceptionHandling.java" />
+        <option value="$PROJECT_DIR$/JUNE21/src/shortPasswordException.java" />
+        <option value="$PROJECT_DIR$/JUNE21/src/MyStack.java" />
+        <option value="$PROJECT_DIR$/JUNE21/src/TestStack.java" />
+        <option value="$PROJECT_DIR$/JUNE21/src/AssertionsTest.java" />
+        <option value="$PROJECT_DIR$/out/production/JUNE22/myinput.txt" />
+        <option value="$PROJECT_DIR$/JUNE22/myinput.txt" />
+        <option value="$PROJECT_DIR$/JUNE22/src/FileCopy.java" />
+        <option value="$PROJECT_DIR$/JUNE22/src/myinput.txt" />
+        <option value="$PROJECT_DIR$/JUNE22/src/FileReaderTest.java" />
+        <option value="$PROJECT_DIR$/JUNE22/src/file1" />
+        <option value="$PROJECT_DIR$/JUNE22/src/file2" />
+        <option value="$PROJECT_DIR$/JUNE22/src/file2.txt" />
+        <option value="$PROJECT_DIR$/JUNE22/src/file1.txt" />
+        <option value="$PROJECT_DIR$/JUNE22/src/ObjextPrint.java" />
+        <option value="$PROJECT_DIR$/JUNE22/src/HashMapPrint.java" />
+        <option value="$PROJECT_DIR$/JUNE22/src/FileNIO.java" />
+        <option value="$PROJECT_DIR$/JUNE25/input.txt" />
+        <option value="$PROJECT_DIR$/JUNE25/src/FileSystemChannel.java" />
+        <option value="$PROJECT_DIR$/JUNE25/src/PathTest.java" />
+        <option value="$PROJECT_DIR$/JUNE22/src/SumOfFileMatrix.java" />
+        <option value="$PROJECT_DIR$/JUNE25/src/Join.java" />
+        <option value="$PROJECT_DIR$/JUNE25/src/TestThread.java" />
+        <option value="$PROJECT_DIR$/JUNE25/src/TestThreadRunnable.java" />
+        <option value="$PROJECT_DIR$/JUNE25/src/HareTortoise.java" />
+        <option value="$PROJECT_DIR$/JUNE26/src/Printer.java" />
+        <option value="$PROJECT_DIR$/JUNE26/src/PrinterTest.java" />
+        <option value="$PROJECT_DIR$/JUNE26/src/InterThreadCommunication.java" />
+        <option value="$PROJECT_DIR$/JUNE26/src/Account.java" />
       </list>
     </option>
   </component>
@@ -233,7 +284,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -245,76 +296,18 @@
             <path>
               <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
               <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="JUNE12" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE26" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
               <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="June13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="JUNE14" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="JUNE14" type="462c0819:PsiDirectoryNode" />
+              <item name="JUNE26" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
               <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="JUNE15" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="JUNE15" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="JUNE15" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Mobile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="JUNE15" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Mobile" type="462c0819:PsiDirectoryNode" />
-              <item name="MobileDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="June18" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="June18" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="JUNE19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="JUNE19" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PEP CLASSES" type="462c0819:PsiDirectoryNode" />
-              <item name="LIBRARYMODULE" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PEP CLASSES" type="b2602c69:ProjectViewProjectNode" />
@@ -325,7 +318,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,10 +340,14 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JUNE22/src" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/production/JUNE22" />
       <recent name="$PROJECT_DIR$/June18/src" />
       <recent name="$PROJECT_DIR$/PEP PROBLEMS ONLINE/src" />
       <recent name="$PROJECT_DIR$/PEP PROBLEMS ONLINE/Armstrong Number" />
@@ -368,30 +365,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SearchAllIndexes">
-    <configuration name="HashmapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashmapTest" />
-      <module name="June18" />
+  <component name="RunManager" selected="Application.Account">
+    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Account" />
+      <module name="JUNE26" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern" />
-      <module name="JUNE19" />
+    <configuration name="HareTortoise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HareTortoise" />
+      <module name="JUNE25" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="RemoveSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveSpaces" />
-      <module name="JUNE19" />
+    <configuration name="InterThreadCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterThreadCommunication" />
+      <module name="JUNE26" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="SearchAllIndexes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchAllIndexes" />
-      <module name="JUNE19" />
+    <configuration name="PrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrinterTest" />
+      <module name="JUNE26" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="StringSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringSort" />
-      <module name="JUNE19" />
+    <configuration name="TestThreadRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestThreadRunnable" />
+      <module name="JUNE25" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -436,19 +433,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.HashmapTest" />
-      <item itemvalue="Application.StringSort" />
-      <item itemvalue="Application.RemoveSpaces" />
-      <item itemvalue="Application.Pattern" />
-      <item itemvalue="Application.SearchAllIndexes" />
+      <item itemvalue="Application.TestThreadRunnable" />
+      <item itemvalue="Application.HareTortoise" />
+      <item itemvalue="Application.PrinterTest" />
+      <item itemvalue="Application.InterThreadCommunication" />
+      <item itemvalue="Application.Account" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SearchAllIndexes" />
-        <item itemvalue="Application.Pattern" />
-        <item itemvalue="Application.RemoveSpaces" />
-        <item itemvalue="Application.StringSort" />
-        <item itemvalue="Application.HashmapTest" />
+        <item itemvalue="Application.Account" />
+        <item itemvalue="Application.InterThreadCommunication" />
+        <item itemvalue="Application.PrinterTest" />
+        <item itemvalue="Application.HareTortoise" />
+        <item itemvalue="Application.TestThreadRunnable" />
       </list>
     </recent_temporary>
   </component>
@@ -505,24 +502,25 @@
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48682284" weight="0.3298969" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48535872" weight="0.18213059" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.12737921" side_tool="true" weight="0.28006873" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.23206443" side_tool="true" weight="0.3298969" />
       <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.7679356" weight="0.2646048" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3298969" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.87262076" weight="0.16494845" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.329429" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.8828697" weight="0.3270548" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.7899761" visible="true" weight="0.34040996" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.7899761" visible="true" weight="0.1727672" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49121523" weight="0.25945017" />
       <window_info id="Favorites" order="3" sideWeight="0.21002387" side_tool="true" weight="0.23572475" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4919473" weight="0.0068728523" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -530,8 +528,38 @@
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.3298969" />
+      <window_info anchor="bottom" id="Find" order="5" sideWeight="0.49926794" weight="0.3298969" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.7679356" visible="true" weight="0.3298969" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.7899761" weight="0.1727672" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.8828697" weight="0.3270548" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49121523" weight="0.6546392" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.23206443" side_tool="true" weight="0.3298969" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Find" order="5" sideWeight="0.49926794" weight="0.3298969" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48535872" weight="0.18213059" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info id="Favorites" order="3" sideWeight="0.21002387" side_tool="true" weight="0.23572475" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -548,235 +576,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="16" />
+      <option name="time" value="19" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/June11/src/AbstractFigure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="81" column="22" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE12/src/TestStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/June13/src/StaticTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1235">
-          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/June13/src/MemberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="23" lean-forward="true" selection-end-line="302" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/June11/src/MemberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="299" column="63" selection-end-line="306" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/June13/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/TestInnerCLass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-399">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE14/src/GenericsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE14/src/ListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="44" column="23" selection-start-line="40" selection-start-column="10" selection-end-line="44" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE15/src/Mobile/MobileDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="91" column="24" lean-forward="true" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE15/src/Model/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="74" column="30" lean-forward="true" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE14/src/ObjectQeuals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE15/src/Model/CityTempComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE15/src/CollectionsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="30" column="22" selection-start-line="28" selection-start-column="16" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/TestLibrary.java" />
-    <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Rank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/NSSMember.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/LibraryTest.java" />
-    <entry file="file://$PROJECT_DIR$/JUNE14/src/MergeList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Zone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Library.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Faculty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE15/src/PQTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE15/src/TestDoublyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="43" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/Armstrong Number/Screenshot from 2018-06-17 10-05-36.png" />
-    <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/Armstrong Number/Armstrong.java" />
-    <entry file="file://$PROJECT_DIR$/JUNE14/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/ArmStringQ.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/BMI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/arrayrotate02.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/ArmStrong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/CmpString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/cmpStr.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/arrayrotate01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PEP PROBLEMS ONLINE/src/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JUNE16-17 Work/src/StudentClassHW.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
@@ -798,10 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding>
-            <element signature="e#886#887#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -826,44 +625,285 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE19/src/StringSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JUNE19/src/RemoveSpaces.java">
+    <entry file="file://$PROJECT_DIR$/JUNE20/src/ScannerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
-          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/June18/src/HashmapTest.java">
+    <entry file="file://$PROJECT_DIR$/JUNE20/src/BillpaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="646">
+          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE20/src/RegexDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JUNE19/src/Pattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
+        <state relative-caret-position="266">
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE19/src/RemoveSpaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE21/src/add.java" />
+    <entry file="file://$PROJECT_DIR$/JUNE19/src/StringSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JUNE19/src/SearchAllIndexes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="399">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE21/src/addTest.java" />
+    <entry file="file://$PROJECT_DIR$/JUNE7/src/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE21/src/TestStack.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIBRARYMODULE/src/LibraryPackage/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE21/src/AssertionsTest.class" />
+    <entry file="file://$PROJECT_DIR$/JUNE21/src/AssertionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/myinput.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE21/src/shortPasswordException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE21/src/ExceptionHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt" />
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/file3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/file2" />
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/file1" />
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/file1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/file2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/FileReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/JUNE22/myinput.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/myinput.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/ObjextPrint.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/June18/src/HashmapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Out.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/HashMapPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/FileNIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE25/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE25/src/FileSystemChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE25/src/PathTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE25/src/Join.java" />
+    <entry file="file://$PROJECT_DIR$/JUNE25/src/TestThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/SumOfFileMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="49" column="9" selection-start-line="11" selection-start-column="8" selection-end-line="49" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE22/src/FileCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="34" selection-start-line="9" selection-start-column="8" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE25/src/TestThreadRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE25/src/HareTortoise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE26/src/PrinterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="50" column="32" lean-forward="true" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE26/src/InterThreadCommunication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="120" column="5" lean-forward="true" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNE26/src/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="77" column="9" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -919,7 +959,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JUNE16-17 Work</last-edited>
+          <last-edited>PEP CLASSES</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
